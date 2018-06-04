@@ -8,4 +8,5 @@
 - [如何向类中动态添加方法？](./add-method.md)
 - [如何正确地在主线程中调度 UI 任务](./dispatch-on-right-queue.md)
 - [如何获取 iOS App 的沙盒路径](./sandbox-paths.md)
+- [如何设置 Tab Bar 中的图标居中显示](./tab-bar-icon-center.md)
 
