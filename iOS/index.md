@@ -16,6 +16,7 @@
 ### Runtime 运用
 
 - [如何在 category 中关联对象](./associate-object-category.md)
-- [如何实现 method swizzle ?](./method-swizzle.md)
-- [如何向类中动态添加方法？](./add-method.md)
+- [如何实现 method swizzle](./method-swizzle.md)
+- [如何向类中动态添加方法](./add-method.md)
+- [如何在运行时获取对象的属性名称](./get-properties-at-runtime.md)
 
